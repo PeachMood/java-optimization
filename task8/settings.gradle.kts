@@ -1,0 +1,2 @@
+rootProject.name = "task8"
+
