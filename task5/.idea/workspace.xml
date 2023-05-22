@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="240ea2a1-e6d8-4419-8ffb-81b4f5d67893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConsoleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecutionTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaRGBImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JniRGBImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RGBImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RGBPixel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pair.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/c/libjni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConsoleApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExecutionTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaRGBImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JniRGBImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RGBImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RGBPixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task6/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task6/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task8/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,36 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="task5" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -44,7 +74,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/ann/projects/java-optimization/task5/src/main/c",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/ann/projects/java-optimization/task3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.22882181"
@@ -55,6 +88,136 @@
       <recent name="$PROJECT_DIR$/src/main/c" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="task5.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ImageTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Xms128m -Xmx1024m" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ImageTest.blur_Image_WithJavaImage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ImageTest.blur_Image_WithJavaImage&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ImageTest.blur_Image_WithJniImage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ImageTest.blur_Image_WithJniImage&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ImageTest.blur_WhiteNoise" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ImageTest.blur_WhiteNoise&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Xms1024m -Xmx2048m" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.ImageTest" />
+      <item itemvalue="Gradle.ImageTest.blur_Image_WithJavaImage" />
+      <item itemvalue="Gradle.ImageTest.blur_Image_WithJniImage" />
+      <item itemvalue="Gradle.ImageTest.blur_WhiteNoise" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ImageTest.blur_WhiteNoise" />
+        <item itemvalue="Gradle.ImageTest" />
+        <item itemvalue="Gradle.ImageTest.blur_Image_WithJniImage" />
+        <item itemvalue="Gradle.ImageTest.blur_Image_WithJavaImage" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,5 +229,12 @@
       <updated>1681324673433</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="row" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

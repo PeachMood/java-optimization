@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9631c01-8d05-4a73-a411-838d59dc1c2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../task5/src/main/java/ConsoleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task5/src/main/java/ExecutionTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task5/src/main/java/JavaRGBImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task5/src/main/java/JniRGBImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task5/src/main/java/RGBImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task5/src/main/java/RGBPixel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/InfiniteSleepThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/RandomSleepThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ShortSleepThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../task5/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../task5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/sort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/src/main/java/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/src/main/java/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task5/src/main/java/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task5/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/ann/projects/java-optimization/task8/src/main/java/com/example"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ann/projects/java-optimization/task8/src/main/java/com/example&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/example" />

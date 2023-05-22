@@ -4,7 +4,7 @@ import com.example.Cache;
 
 import java.util.function.Function;
 
-public class CacheMock<K, V> extends Cache<K, V> {
+public class    CacheMock<K, V> extends Cache<K, V> {
     private final InvokesCounter<K> getInvokesCounter = new InvokesCounter<>();
     private final InvokesCounter<K> putInvokesCounter = new InvokesCounter<>();
     private final Timer<K> cacheTimer = new Timer<>();
